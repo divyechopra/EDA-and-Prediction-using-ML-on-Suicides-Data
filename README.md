@@ -1,0 +1,1 @@
+# EDA-and-Prediction-using-ML-on-Suicides-Data
